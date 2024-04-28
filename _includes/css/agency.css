@@ -429,6 +429,13 @@ section h3.section-subheading {
 #portfolio * {
     z-index: 2;
 }
+/* CSS for mobile devices */
+@media (max-width: 768px) {
+    .portfolio-item img {
+        width: 50%;
+    }
+}
+
 
 @media(min-width:767px) {
     #portfolio .portfolio-item {
