@@ -5,14 +5,14 @@ baseurl: "/wernermeyerconsulting" # The subpath of your site, e.g. /blog
 # Site settings
 title: Werner Meyer Consulting
 email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Specializing in succession planning and asset protection, Werner Meyer Consulting offers tailored strategies for international families and high-net-worth individuals."
 
 
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Rainstrasse 7
+  - line: 8907 Wettswil
 
 # Build settings
 markdown: kramdown
