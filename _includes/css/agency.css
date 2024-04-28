@@ -341,6 +341,10 @@ section h2.section-heading {
 section h3.section-subheading {
     margin-bottom: 75px;
     text-transform: none;
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px; /* Add padding as needed */
+    box-sizing: border-box;
     font-family: {{ site.data.template.font.secondary }};
     font-size: 16px;
     font-style: italic;
@@ -431,8 +435,14 @@ section h3.section-subheading {
 }
 /* CSS for mobile devices */
 @media (max-width: 768px) {
-    .portfolio-item img {
-        width: 50%;
+    .portfolio-image {
+        width: 60%;
+    }
+}
+
+@media (max-width: 768px) {
+    .portfolio-caption {
+        width: 60%;
     }
 }
 
