@@ -343,7 +343,7 @@ section h3.section-subheading {
     text-transform: none;
     width: 80%;
     margin: 0 auto;
-    padding: 20px; /* Add padding as needed */
+    padding: 20px 20px 50px 20px; /* Add padding as needed */
     box-sizing: border-box;
     font-family: {{ site.data.template.font.secondary }};
     font-size: 16px;
@@ -362,6 +362,14 @@ section h3.section-subheading {
     text-transform: none;
 }
 
+.services-div {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.service-item {
+    margin-bottom: 30px;
+}
 #portfolio .portfolio-item {
     right: 0;
     margin: 0 0 15px;
@@ -423,6 +431,11 @@ section h3.section-subheading {
     text-transform: none;
 }
 
+.portfolio_div {
+    padding-top: 1000px;
+    margin-top: 1000px;
+}
+
 #portfolio .portfolio-item .portfolio-caption p {
     margin: 0;
     font-family: {{ site.data.template.font.secondary }};
@@ -430,9 +443,12 @@ section h3.section-subheading {
     font-style: italic;
 }
 
+
 #portfolio * {
     z-index: 2;
 }
+
+
 /* CSS for mobile devices */
 @media (max-width: 768px) {
     .portfolio-image {
