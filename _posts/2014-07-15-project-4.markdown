@@ -1,15 +1,12 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: Regulatory Topics
+subtitle: Regulatory Navigation
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+img: regulatory_topics.jpeg
+thumbnail: regulatory_topics.jpeg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Staying abreast of regulations is challenging. We specialize in interpreting and implementing regulatory frameworks, helping clients maintain compliance with changing rules and minimizing risk of non-compliance.
 
 ---

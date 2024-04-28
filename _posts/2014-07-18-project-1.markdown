@@ -1,15 +1,11 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Succession Planning
+subtitle: Legacy & Continuity
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: succession_planning.jpeg
+thumbnail: succession_planning.jpeg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+description: Our succession planning services are designed to ensure that your personal and business affairs are perfectly aligned for the future. We focus on the legal, financial, and personal aspects of passing leadership to the next generation, ensuring that your vision and values are preserved across time.
 ---

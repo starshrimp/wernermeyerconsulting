@@ -1,15 +1,12 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Asset Protection
+subtitle: Safeguarding Wealth
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: asset_protection.jpeg
+thumbnail: asset_protection.jpeg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: We provide robust asset protection strategies to shield your wealth from litigation, creditors, and other vulnerabilities. Our approach is to create a secure structure for your investments, real estate, and other valuable assets, providing peace of mind and long-term stability.
 
 ---

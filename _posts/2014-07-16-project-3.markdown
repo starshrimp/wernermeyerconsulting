@@ -1,15 +1,12 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Tax Planning/Optimization
+subtitle: Fiscal Efficiency
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+img: tax_planning_optimisation.jpeg
+thumbnail: tax_planning_optimisation.jpeg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Our tax planning services are tailored to optimize your financial profile in compliance with current laws. We navigate the complexities of the tax landscape to identify opportunities for savings, ensuring that you retain more of your hard-earned wealth.
 
 ---
