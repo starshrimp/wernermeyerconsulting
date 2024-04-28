@@ -61,6 +61,10 @@ h6 {
     margin: 0 auto;
 }
 
+.img-modal {
+    width: 30%;
+}
+
 .bg-light-gray {
     background-color: #f7f7f7;
 }
@@ -269,7 +273,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
+    background-image: url('{{ site.baseurl }}/img/wernermeyerconsulting.jpeg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -633,13 +637,16 @@ section h3.section-subheading {
 }
 
 .team-member {
-    margin-bottom: 50px;
+    margin-bottom: 30px;
     text-align: center;
 }
 
 .team-member img {
     margin: 0 auto;
     border: 7px solid #fff;
+    height: 300px; /* Adjust the height as per your requirement */
+    width: auto; /* To maintain aspect ratio */
+    
 }
 
 .team-member h4 {
