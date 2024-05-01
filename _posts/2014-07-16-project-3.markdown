@@ -7,6 +7,6 @@ date: 2014-07-16
 img: tax_planning_optimisation.jpeg
 thumbnail: tax_planning_optimisation.jpeg
 alt: image-alt
-description: Our tax planning services are tailored to optimize your financial profile in compliance with current laws. We navigate the complexities of the tax landscape to identify opportunities for savings, ensuring that you retain more of your hard-earned wealth.
+description: Together with a network of international experts, we can find solutions tailored to optimize your financial profile in compliance with current laws. We navigate the complexities of the tax landscape to identify opportunities for savings, ensuring that you retain more of your hard-earned wealth.
 
 ---

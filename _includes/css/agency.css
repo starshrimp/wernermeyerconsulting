@@ -249,7 +249,7 @@ fieldset[disabled] .btn-xl.active {
     }
 
     .navbar-default .navbar-brand {
-        font-size: 2em;
+        font-size: 2.5em;
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
         transition: all .3s;
@@ -363,13 +363,25 @@ section h3.section-subheading {
 }
 
 .services-div {
-    width: 80%;
+    width: 90%;
     margin: 0 auto;
 }
+
+.services-div p {
+    text-align: justify;
+}
+
 
 .service-item {
     margin-bottom: 30px;
 }
+
+@media(min-width:768px) {
+    .service-item {
+        padding: 0 50px;
+    }
+}
+
 #portfolio .portfolio-item {
     right: 0;
     margin: 0 0 15px;
@@ -448,6 +460,11 @@ section h3.section-subheading {
     z-index: 2;
 }
 
+.portfolio-text {
+    padding-top: 50px;
+    font-size: 1.7em;
+
+}
 
 /* CSS for mobile devices */
 @media (max-width: 768px) {
@@ -483,7 +500,7 @@ section h3.section-subheading {
     left: 40px;
     width: 2px;
     margin-left: -1.5px;
-    background-color: #f1f1f1;
+    background-color: #979595;
 }
 
 .timeline>li {
@@ -692,6 +709,19 @@ section h3.section-subheading {
     margin-top: 0;
 }
 
+.wmclass {
+    text-align: justify;
+    margin-bottom: 50px;
+}
+
+.contactwmclass {
+    text-align: justify;
+    font-size: 23px;
+}
+
+.underline-contact {
+    text-decoration: underline;
+}
 aside.clients img {
     margin: 50px auto;
 }
@@ -759,6 +789,10 @@ section#contact:-ms-input-placeholder {
 
 section#contact .text-danger {
     color: #e74c3c;
+}
+
+.contact-text {
+    color: white;
 }
 
 footer {
