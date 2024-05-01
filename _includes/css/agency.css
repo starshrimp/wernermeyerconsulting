@@ -378,6 +378,7 @@ section h3.section-subheading {
 
 .services-div p {
     text-align: justify;
+    hyphens: auto;
 }
 
 
