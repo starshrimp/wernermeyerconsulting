@@ -270,17 +270,26 @@ fieldset[disabled] .btn-xl.active {
 }
 
 header {
+    position: relative;
     text-align: center;
     color: #fff;
-    background-attachment: scroll;
+  }
+  
+  header::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
     background-image: url('{{ site.baseurl }}/img/wernermeyerconsulting.jpeg');
     background-position: center center;
-    background-repeat: none;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
+    background-repeat: no-repeat;
     background-size: cover;
-    -o-background-size: cover;
-}
+    opacity: 0.8; /* Set the opacity to your preference */
+    z-index: -1;
+  }
+  
 
 header .intro-text {
     padding-top: 100px;
