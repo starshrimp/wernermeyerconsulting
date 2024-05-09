@@ -475,9 +475,11 @@ section h3.section-subheading {
     z-index: 2;
 }
 
+
 .portfolio-text {
     padding-top: 50px;
-    font-size: 1.7em;
+    font-size: 1.4em;
+    text-align: justify;
 
 }
 
@@ -737,7 +739,7 @@ section h3.section-subheading {
 
 .contactwmclass {
     text-align: justify;
-    font-size: 23px;
+    font-size: 1.4em;
 }
 
 .underline-contact {
