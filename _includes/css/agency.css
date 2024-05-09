@@ -290,6 +290,10 @@ header {
     z-index: -1;
   }
   
+.weme-logo {
+    width: 2.5em;
+    padding-right: 20px;
+}
 
 header .intro-text {
     padding-top: 100px;
@@ -346,6 +350,7 @@ section h2.section-heading {
     margin-bottom: 15px;
     font-size: 40px;
 }
+
 
 section h3.section-subheading {
     margin-bottom: 75px;
@@ -694,6 +699,12 @@ section h3.section-subheading {
     .timeline>li.timeline-inverted>.timeline-panel {
         padding: 0 100px 20px 20px;
     }
+}
+
+.weme-title {
+    text-align: center;
+    margin-bottom: 30px;
+
 }
 
 .team-member {
