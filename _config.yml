@@ -1,5 +1,5 @@
-url: "https://starshrimp.github.io" # The base hostname & protocol for your site
-baseurl: "/wernermeyerconsulting" # The subpath of your site, e.g. /blog
+baseurl: ""
+url: "http://wmeyerconsulting.ch"
 
 
 # Site settings
